@@ -3,3 +3,5 @@
 - LichaSDev - Lisandro Sanchez
 - Lautaro-prog392
 - gitkevin91
+- Burani Elías
+
